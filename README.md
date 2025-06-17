@@ -27,7 +27,7 @@ Built with **Django** for the backend and **React.js** for the frontend.
 ---
 
 ## 🗂 Project Structure
-
+```
 Interview_Tales/
 ├── frontend/ # React frontend
 │ ├── src/
@@ -37,10 +37,8 @@ Interview_Tales/
 │ ├── resume_analyzer/
 │ └── media/ # profile pics, post images
 
-
-
-
-
+```
+download them seperately and do the configuration
 
 ---
 
